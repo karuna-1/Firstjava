@@ -14,7 +14,7 @@ public class Addition {
 
         int sum = number1 + number2;
 
-        System.out.println(sum);
+        System.out.println("sum is" + sum);
 
         scanner.close();
     }
